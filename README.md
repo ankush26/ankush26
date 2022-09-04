@@ -3,7 +3,7 @@
 
 ## I'm a Student, Developer 👨🏻‍💻, and Content Creator!!
 - 🔭 I’m currently working on something cool 😎
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning Cloud Computing
 - 💬 Ask me about Web Development
 - 📫 How to reach me: ankushgupta2601@gmail.com
 - ⚡ Fun fact: I have an instagram page 👉 [@techchats](https://www.instagram.com/techchats/)
